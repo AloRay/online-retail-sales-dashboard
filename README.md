@@ -1,5 +1,5 @@
 ## Online Retail Sales & Customer Intelligence Dashboard
-A Python → SQL → Power BI analytics pipeline built on the UCI Online Retail Dataset — 541,909 real transactions from a UK-based online gift retailer (December 2010 – December 2011). Covers revenue analysis, country performance, top products, RFM customer segmentation, and a conversion funnel across two interactive dashboard pages.
+A Python → SQL → Power BI analytics pipeline built on the UCI Online Retail Dataset. This is analysis and visualization of 541,909 real transactions from a UK-based online gift retailer (between December 2010 to December 2011). It covers revenue analysis, country performance, top products, RFM customer segmentation, and a conversion funnel across two interactive dashboard pages.
 
 
 ### Data Source
@@ -23,9 +23,9 @@ UCI Online Retail Dataset — Daqing Chen, Sai Liang Sain, and Kun Guo, "Data mi
 
 
 ### Dashboard
-<img width="648" height="364" alt="customer intelligence" src="https://github.com/user-attachments/assets/14c0643d-9fe3-48de-af97-8800d6b89a97" />
-
 <img width="643" height="362" alt="revenue overview" src="https://github.com/user-attachments/assets/a4250c94-0337-458f-8a3d-2f67908326bf" />
+
+<img width="648" height="364" alt="customer intelligence" src="https://github.com/user-attachments/assets/14c0643d-9fe3-48de-af97-8800d6b89a97" />
 
 
 ### Watch Demo / Walkthrough
