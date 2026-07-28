@@ -15,11 +15,12 @@ UCI Online Retail Dataset — Daqing Chen, Sai Liang Sain, and Kun Guo, "Data mi
 
 ### Key Findings
 - Total revenue: £10.6M across 19,960 orders
-- Average order value: £533.17
+- Average order value: £533
 - 16.1% cancellation rate
 - 65.6% of registered customers are repeat buyers
 - UK accounts for ~91% of revenue; Germany and France are next
 - Clear seasonal revenue spike in Oct-Nov (Christmas gift buying)
+- Top revenue line: DOTCOM POSTAGE (£206K) — a shipping charge coded as a product, worth separating in a real business analysis
 
 
 ### Dashboard
