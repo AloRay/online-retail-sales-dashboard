@@ -1,0 +1,6 @@
+step,rows_removed,reason
+2-duplicates,5268,exact duplicate rows (double-processed transactions)
+3-cancellations,9251,"cancellation invoices (InvoiceNo starts with C) -- moved to cancellations.csv, not deleted"
+4-bad-prices,2512,zero or negative unit prices (free samples / data-entry errors)
+5-bad-quantity,0,zero or negative quantities in non-cancellation rows (data error)
+6-guest-customers,0,"132,186 rows had no CustomerID (guest checkouts) -- filled with 'GUEST' and flagged in CustomerType column, NOT removed (removing them would silently lose real revenue)"

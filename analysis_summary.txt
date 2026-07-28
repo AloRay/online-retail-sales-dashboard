@@ -1,0 +1,22 @@
+
+SALES ANALYSIS SUMMARY
+=======================
+Raw rows:            541,909
+Clean rows:          524,878
+Cancellations:       9,251 rows (16.1% of all invoices)
+-----------------------------------------------------
+Total Revenue:       £10,642,110.80
+Avg Order Value:     £533.17
+Total Orders:        19,960
+Total Customers:     4,338
+Repeat Customers:    2,845 (65.6% of registered)
+-----------------------------------------------------
+Best Month:          Nov 2011
+Top Country:         United Kingdom
+Top Product:         DOTCOM POSTAGE (£206,248.77)
+=====================================================
+Outputs saved:
+  sales_clean.csv, cancellations.csv,
+  monthly_revenue.csv, revenue_by_country.csv,
+  top_products.csv, customer_segments.csv,
+  conversion_funnel.csv, cleaning_log.csv
